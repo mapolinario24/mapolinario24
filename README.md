@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marcos Apolinário  
 
-## 🚀 Data Engineer | DevOps | Cloud Enthusiast  
+## 🚀 Data Engineer | DevOps | Bussines Inteligence 
 
 Sou um profissional de **Engenharia de Dados** com experiência em **Data Lakehouse, Kubernetes, Spark, Trino, Airflow, Delta Lake** e integração de pipelines complexas para grandes volumes de dados.  
 Atuo no desenho de arquiteturas modernas de dados, migração de bases legadas e implementação de pipelines escaláveis seguindo as melhores práticas de mercado.  
