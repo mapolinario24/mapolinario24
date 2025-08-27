@@ -23,10 +23,12 @@ Atuo no desenho de arquiteturas modernas de dados, migração de bases legadas e
 
 Um dos meus maiores destaques profissionais foi a produção de um **Painel de Power BI** que conquistou **2 prêmios internacionais** de inovação e excelência em Business Intelligence.  
 
-🔗 [Acesse aqui o painel premiado](https://seu-link-do-painel.com)  
+🔗 [Acesse aqui o painel premiado](https://geoprocessamento.contagem.mg.gov.br/portal/apps/experiencebuilder/experience/?id=1cc51ed1bb7546e092ecad2935cc425d)  
+📰 **Reportagem sobre o projeto**  
+🔗 [Leia a matéria completa](https://portal.contagem.mg.gov.br/portal/noticias/0/3/78589/contagem-recebe-premio-na-cupula-mundial-da-ogp-pelo-projeto-aqui-tem-remedio#:~:text=Contagem%20recebeu%20o%20Pr%C3%AAmio%20Mundial,)%20%2D%20Global%20Open%20Summit%202023.)  
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://geoprocessamento.contagem.mg.gov.br/portal/apps/experiencebuilder/experience/?id=1cc51ed1bb7546e092ecad2935cc425d)
-[![Awards](https://img.shields.io/badge/🏆%20International%20Awards-FFD700?style=for-the-badge)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+
 
 ## 🛠️ Habilidades & Ferramentas
 
