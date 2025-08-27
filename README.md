@@ -25,7 +25,7 @@ Um dos meus maiores destaques profissionais foi a produção de um **Painel de P
 
 🔗 [Acesse aqui o painel premiado](https://geoprocessamento.contagem.mg.gov.br/portal/apps/experiencebuilder/experience/?id=1cc51ed1bb7546e092ecad2935cc425d)  
 📰 **Reportagem sobre o projeto**  
-🔗 [Leia a matéria completa](https://portal.contagem.mg.gov.br/portal/noticias/0/3/78589/contagem-recebe-premio-na-cupula-mundial-da-ogp-pelo-projeto-aqui-tem-remedio#:~:text=Contagem%20recebeu%20o%20Pr%C3%AAmio%20Mundial,)%20%2D%20Global%20Open%20Summit%202023.)  
+🔗 [Leia a matéria completa](https://portal.contagem.mg.gov.br/portal/noticias/0/3/78589/contagem-recebe-premio-na-cupula-mundial-da-ogp-pelo-projeto-aqui-tem-remedio#:~:text=Contagem%20recebeu%20o%20Pr%C3%AAmio%20Mundial,)  
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
 
