@@ -19,6 +19,15 @@ Atuo no desenho de arquiteturas modernas de dados, migração de bases legadas e
 
 ---
 
+## 🎖️ Portfólio e Conquistas  
+
+Um dos meus maiores destaques profissionais foi a produção de um **Painel de Power BI** que conquistou **2 prêmios internacionais** de inovação e excelência em Business Intelligence.  
+
+🔗 [Acesse aqui o painel premiado](https://seu-link-do-painel.com)  
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://geoprocessamento.contagem.mg.gov.br/portal/apps/experiencebuilder/experience/?id=1cc51ed1bb7546e092ecad2935cc425d)
+[![Awards](https://img.shields.io/badge/🏆%20International%20Awards-FFD700?style=for-the-badge)](#)
+
 ## 🛠️ Habilidades & Ferramentas
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
