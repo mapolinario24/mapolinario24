@@ -1,59 +1,221 @@
-# 👋 Olá, eu sou Marcos Apolinário  
+# Marcos Apolinário
 
-## 🚀 Data Engineer | DevOps | Bussines Inteligence 
+<h3 align="center">
+Data & AI Architect • Data Platform Engineer • Solutions Architect • AI Engineering
+</h3>
 
-Sou um profissional de **Engenharia de Dados** com experiência em **Data Lakehouse, Kubernetes, Spark, Trino, Airflow, Delta Lake** e integração de pipelines complexas para grandes volumes de dados.  
-Atuo no desenho de arquiteturas modernas de dados, migração de bases legadas e implementação de pipelines escaláveis seguindo as melhores práticas de mercado.  
-
----
-
-### 📬 Contatos  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosapo01@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mapolinario24@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516997727124)  
+<p align="center">
+Building scalable Data Platforms, Lakehouses, AI Systems and Cloud-Native Architectures.
+</p>
 
 ---
 
-### 🌎 Redes Sociais  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-apolinario/)  
+## About Me
+
+I am a senior technology professional focused on:
+
+- Data Architecture
+- Data Engineering
+- AI Engineering
+- Cloud Architecture
+- Platform Engineering
+- DevOps & SRE
+- Governance & Data Management
+
+My work involves designing and implementing enterprise-grade platforms capable of supporting:
+
+- Data Lakehouses
+- Analytics Platforms
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Data Governance
+- MLOps & LLMOps
+- Digital Public Infrastructure (DPI)
+- Digital Public Goods (DPG)
+
+I have experience delivering solutions across public and private sectors, enabling organizations to transform data into strategic assets through scalable, secure and governable architectures.
 
 ---
 
-## 🎖️ Portfólio e Conquistas  
+## Core Expertise
 
-Um dos meus maiores destaques profissionais foi a produção de um **Painel de Power BI** que conquistou **2 prêmios internacionais** de inovação e excelência em Business Intelligence.  
+### Data Platforms
 
-🔗 [Acesse aqui o painel premiado](https://geoprocessamento.contagem.mg.gov.br/portal/apps/experiencebuilder/experience/?id=1cc51ed1bb7546e092ecad2935cc425d)  
-📰 **Reportagem sobre o projeto**  
-🔗 [Leia a matéria completa](https://portal.contagem.mg.gov.br/portal/noticias/0/3/78589/contagem-recebe-premio-na-cupula-mundial-da-ogp-pelo-projeto-aqui-tem-remedio#:~:text=Contagem%20recebeu%20o%20Pr%C3%AAmio%20Mundial,)  
+- Data Lakehouse Architecture
+- Data Mesh
+- Data Products
+- Medallion Architecture
+- Data Governance
+- Metadata Management
+- Data Quality
+- Data Catalogs
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+### Artificial Intelligence
 
+- Generative AI
+- Agentic AI
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- MCP (Model Context Protocol)
+- Knowledge Graphs
+- LLMOps
+- AI Governance
+- AI Platform Engineering
 
-## 🛠️ Habilidades & Ferramentas
+### Cloud & Platform Engineering
 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](#)
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-FB6D3A?style=for-the-badge&logo=argo&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](#)
-[![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A8FDC?style=for-the-badge&logo=dell&logoColor=white)](#)
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](#)
-[![Trino](https://img.shields.io/badge/Trino-4E44CE?style=for-the-badge&logo=trino&logoColor=white)](#)
-[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](#)
+- Kubernetes
+- Infrastructure as Code
+- Platform Engineering
+- GitOps
+- DevOps
+- SRE
+- Observability
+- FinOps
+
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mapolinario24&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapolinario24&layout=compact&theme=dracula)  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mapolinario24)
+# Technology Stack
+
+## Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
+---
+
+## Data Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-0A8FDC?style=for-the-badge)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-0052CC?style=for-the-badge)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt)
+
+---
+
+## Data Platform
+
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio)
+![OpenMetadata](https://img.shields.io/badge/OpenMetadata-0F172A?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+
+---
+
+## AI Engineering
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1A1A1A?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j)
+
+---
+
+## DevOps & Platform Engineering
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
+---
+
+## Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
+
+---
+
+# Featured Projects
+
+## Data Lakehouse Platforms
+
+Enterprise-grade Data Lakehouse architectures using:
+
+- Apache Iceberg
+- Spark
+- Trino
+- MinIO
+- Airflow
+- OpenMetadata
+
+Designed for governance, scalability and analytics workloads.
+
+---
+
+## AI First Platforms
+
+Development of enterprise AI solutions using:
+
+- Agentic AI
+- RAG
+- MCP
+- Multi-Agent Systems
+- Vector Databases
+- Knowledge Graphs
+
+Focused on business intelligence and decision support.
+
+---
+
+## Digital Public Infrastructure (DPI)
+
+Participation in initiatives involving:
+
+- Public Sector Data Platforms
+- Governance Frameworks
+- Open Architectures
+- Digital Public Goods
+
+Enabling interoperability and data-driven public services.
+
+---
+
+# Awards & Recognition
+
+### International Award-Winning BI Solution
+
+Development of a Business Intelligence platform recognized with international awards for innovation and public impact.
+
+🔗 Project:
+
+https://geoprocessamento.contagem.mg.gov.br/portal/apps/experiencebuilder/experience/?id=1cc51ed1bb7546e092ecad2935cc425d
+
+📰 News:
+
+https://portal.contagem.mg.gov.br/portal/noticias/0/3/78589/contagem-recebe-premio-na-cupula-mundial-da-ogp-pelo-projeto-aqui-tem-remedio
+
+---
+
+# Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Apolinario-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcos-apolinario/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-marcosapo01%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:marcosapo01@gmail.com)
+
+[![Outlook](https://img.shields.io/badge/Outlook-mapolinario24%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook)](mailto:mapolinario24@outlook.com)
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mapolinario24&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapolinario24&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mapolinario24&theme=algolia&row=1&column=7"/>
+</p>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mapolinario24"/>
+</p>
+
